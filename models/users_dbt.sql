@@ -1,1 +1,1 @@
-select * from DB_ECOMM.SC_ECOMM.USERS
+select * from DB_ECOMM.SC_ECOMM.USERS 
